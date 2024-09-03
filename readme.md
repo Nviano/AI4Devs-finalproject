@@ -19,7 +19,7 @@
 
 ### **0.3. Descripción breve del proyecto:** Un sistema completo de gestión para entrenadores en clínicas, que permite personalizar evaluaciones iniciales, asignar ejercicios y hacer un seguimiento detallado del progreso de los clientes, todo en una plataforma fácil de usar.
 
-### **0.4. URL del proyecto:**
+### **0.4. URL del proyecto:** https://github.com/Nviano/AI4Devs-finalproject
 
 > Puede ser pública o privada, en cuyo caso deberás compartir los accesos de manera segura. Puedes enviarlos a [alvaro@lidr.co](mailto:alvaro@lidr.co) usando algún servicio como [onetimesecret](https://onetimesecret.com/).
 
@@ -30,8 +30,6 @@
 ---
 
 ## 1. Descripción general del producto
-
-> Describe en detalle los siguientes aspectos del producto:
 
 ### **1.1. Objetivo:**
 
@@ -993,8 +991,6 @@ components:
 ---
 
 ## 5. Historias de Usuario
-
-> Documenta 3 de las historias de usuario principales utilizadas durante el desarrollo, teniendo en cuenta las buenas prácticas de producto al respecto.
 
 **Historia de Usuario 1:** Gestión de Clientes por Entrenadores
 
